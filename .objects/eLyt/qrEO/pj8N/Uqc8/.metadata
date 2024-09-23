@@ -1,0 +1,14 @@
+﻿{
+  "Name": "Check App State 'Recursos'",
+  "Type": "Element",
+  "TaxonomyType": "Button",
+  "Id": "Uqc8W3ccU0KrOk154nUagg",
+  "Reference": "7r0syqXRQUqS6i3oSe9r8g/Uqc8W3ccU0KrOk154nUagg",
+  "ParentRef": "7r0syqXRQUqS6i3oSe9r8g/pj8NRh1-KkyiFo1lSLiyPQ",
+  "Created": "2024-09-23T14:35:54.5082498Z",
+  "Updated": "2024-09-23T14:35:54.5082498Z",
+  "CreatedBy": [
+    "UiPath.UIAutomationCore, Version=24.11.1.0, Culture=neutral, PublicKeyToken=null",
+    "UiPath.Platform, Version=24.11.0.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

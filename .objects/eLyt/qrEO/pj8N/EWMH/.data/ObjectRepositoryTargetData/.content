@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-16"?>
+<ObjectRepositoryTargetData ContentHash="43cmqgGZIES9e7EYPE2O0Q" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <ObjectRepositoryTargetData.Data>
+    <TargetAnchorable x:Key="TargetAnchorable" BrowserURL="https://dadosabertos.rfb.gov.br/CNPJ/dados_abertos_cnpj/?C=N;O=D" DesignTimeRectangle="16, 137, 1904, 895" DesignTimeScaleFactor="1" FuzzySelectorArgument="&lt;webctrl tag='BODY' type='' class='' aaname='      ' /&gt;" Guid="5fa07cb4-b0c3-473d-8b0a-839a419fa288" ScopeSelectorArgument="&lt;html app='chrome.exe' title='Index of /CNPJ/dados_abertos_cnpj' /&gt;" SearchSteps="FuzzySelector" Version="V4" Visibility="Interactive">
+      <imageRef attrName="InformativeScreenshot" originalValue="e3e2672fb391606fb81fbfbc4468acf0.png" xmlns="">0qEweZAh_YEOwj4PNhD80Wg</imageRef>
+    </TargetAnchorable>
+    <x:String x:Key="ActivityType">KeyboardShortcut</x:String>
+  </ObjectRepositoryTargetData.Data>
+</ObjectRepositoryTargetData>
